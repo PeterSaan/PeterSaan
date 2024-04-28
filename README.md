@@ -1,9 +1,9 @@
 ### Hi there 👋
 ### My name is Peter and I'm a young, eager software developer from Estonia!
-<br>
+<br />
 #### Mainly working with JavaScript and occasionally C#
 #### Learning C++ on my own atm
-<br>
+<br />
 ##### How to reach me:
 -  LinkedIn: https://www.linkedin.com/in/peter-saan-7107a52a3/
 -  IG: https://www.instagram.com/saanipoiss/
