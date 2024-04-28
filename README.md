@@ -7,7 +7,7 @@
 ##### How to reach me:
 -  LinkedIn: https://www.linkedin.com/in/peter-saan-7107a52a3/
 -  IG: https://www.instagram.com/saanipoiss/
--  saanpeter@gmail.com
+-  Gmail: saanpeter@gmail.com
 
 <!--
 **PeterSaan/PeterSaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
