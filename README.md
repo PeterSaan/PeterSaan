@@ -7,7 +7,7 @@
 <details>
   <summary>
     <h2>
-      <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/stats.gif" width="32"/> 
+      <img align="center" src="https://github.com/PeterSaan/PeterSaan/blob/main/icons/stats.gif" width="32"/> 
       Stats
     </h2>
   </summary>
