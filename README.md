@@ -1,9 +1,9 @@
 ### Hi there 👋
 ### My name is Peter and I'm a young, eager software developer from Estonia!
----
+
 #### Mainly working with JavaScript and occasionally C#
 #### Learning C++ on my own at the moment
----
+
 <details>
   <summary>
     <h2>
@@ -18,7 +18,7 @@
     ![](https://github-readme-activity-graph.vercel.app/graph?username=PeterSaan&theme=tokyo-night)
   </div>
 </details>
----
+
 ##### How to reach me:
 -  LinkedIn: https://www.linkedin.com/in/peter-saan-7107a52a3/
 -  Instagram: https://www.instagram.com/saanipoiss/
