@@ -1,9 +1,7 @@
 ### Hi there 👋
 ### My name is Peter and I'm a young, eager software developer from Estonia!
 ---
-#### Mainly working with JavaScript and occasionally C#
-#### Learning C++ on my own at the moment
-#### Looking for work!
+#### Mainly working with JavaScript, TypeScript, C++ and C
 ---
 
 <div align="center">
