@@ -1,7 +1,12 @@
 ### Hi there 👋
-### My name is Peter and I'm a young, eager software developer from Estonia!
+### My name is Peter and I'm a software developer from Estonia!
 ---
-#### Mainly working with JavaScript, TypeScript, C++ and C
+#### Done and working projects include:
+- Backend: Go, Node, Laravel
+- Frontend: Vue, Solid, React
+- Databases: MySQL, SQLite, Postgres, Redis
+- Embedded & IoT: ESP, Tasmota, MQTT
+- DevOps: Git, Docker, VMs
 ---
 
 <div align="center">
